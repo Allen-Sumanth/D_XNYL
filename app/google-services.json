@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448670173166",
+    "project_id": "d-xnyl",
+    "storage_bucket": "d-xnyl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448670173166:android:76df8404cf42c4aaa6f0ff",
+        "android_client_info": {
+          "package_name": "com.example.d_xnyl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOnTKESLRGjs6zyL8Nj5gNhU4nyxjrku4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
